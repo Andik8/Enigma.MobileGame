@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 3f9cc8292487e7a458b3a8d8f0aca9ce
+ModelImporter:
+  serializedVersion: 22102
+  internalIDToNameTable:
+  - first:
+      74: 4951062797732842887
+    second: DrawerMotion|Armature.001Action.001
+  - first:
+      74: 2459779651153803546
+    second: DrawerMotion|Armature.002Action
+  - first:
+      74: -8639190405406323732
+    second: DrawerMotion|Armature.004Action.001
+  - first:
+      74: -7355235619085536536
+    second: DrawerMotion|Armature.005Action.004
+  - first:
+      74: -2688407874205534053
+    second: DrawerMotion|Armature.005Action.005
+  - first:
+      74: -734831301704207646
+    second: DrawerMotion|Armature.006Action
+  - first:
+      74: 5445851056513608548
+    second: DrawerMotion|Armature.007Action
+  - first:
+      74: 4170674824747321093
+    second: DrawerMotion|Armature.007Action.001
+  - first:
+      74: 3551467431481907617
+    second: DrawerMotion|Armature.007Action.002
+  - first:
+      74: 7980466661104844246
+    second: DrawerMotion|ArmatureAction.001
+  - first:
+      74: -4292858516958820703
+    second: DrawerMotion|ArmatureAction.002
+  - first:
+      74: -6721612471189093697
+    second: ElecLeverMotion|Armature.001Action.001
+  - first:
+      74: -6192505162482937932
+    second: ElecLeverMotion|Armature.002Action
+  - first:
+      74: 6774303878846582473
+    second: ElecLeverMotion|Armature.004Action.001
+  - first:
+      74: -7109096540541332150
+    second: ElecLeverMotion|Armature.005Action.004
+  - first:
+      74: 1389526596098635157
+    second: ElecLeverMotion|Armature.005Action.005
+  - first:
+      74: -5133640496896970986
+    second: ElecLeverMotion|Armature.006Action
+  - first:
+      74: 6949651850841007469
+    second: ElecLeverMotion|Armature.007Action
+  - first:
+      74: 2266014531021902019
+    second: ElecLeverMotion|Armature.007Action.001
+  - first:
+      74: -1538404319046580361
+    second: ElecLeverMotion|Armature.007Action.002
+  - first:
+      74: 1445679091551606216
+    second: ElecLeverMotion|ArmatureAction.001
+  - first:
+      74: 161829105640375324
+    second: ElecLeverMotion|ArmatureAction.002
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

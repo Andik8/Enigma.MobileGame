@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Volume">
+    <Position X="17.25" Y="9" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="8.546" />
+        <Point X="18" Y="8.546" />
+        <Point X="18" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAgAAABAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Volume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestRoom1">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAABAAAAAAAAAIABMAAQAAAECAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\TestRoom\TestRoom1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestRoom2">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAABAAAAAAAAAIAhMAAQAAAEAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\TestRoom\TestRoom2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestRoom3">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAAAABAAAAAAAAAIAhIAAQAAAEAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\TestRoom\TestRoom3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestRoom4">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAABAAAAAAAAAIABIAAQAAAECAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\TestRoom\TestRoom4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioTheme">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\AudioTheme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoredBehaviour">
+    <Position X="21.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAAAAIAABAAYAAAAAAAAAACAAQAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\BoredBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinishGame">
+    <Position X="8.5" Y="9" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="8.561" />
+        <Point X="9.25" Y="8.561" />
+        <Point X="9.25" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAQCAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\FinishGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory">
+    <Position X="17.25" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="4.379" />
+        <Point X="18" Y="4.379" />
+        <Point X="18" Y="4.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelLoader">
+    <Position X="15.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAABAAAAAEAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\LevelLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Loading">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="4.382" />
+        <Point X="14.5" Y="4.382" />
+        <Point X="14.5" Y="4.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAUBAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Loading.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="4.376" />
+        <Point X="16.25" Y="4.376" />
+        <Point X="16.25" Y="4.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAACIAACgBAAAAAIAAAAAAgAAAAAAAAAwAAQA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapMenu">
+    <Position X="12" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\MapMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenu">
+    <Position X="10.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQgAAAAAAAAAAAAAAAAAIEAAAAAgAAgAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAgAACEAAAEAAAAAAACAAAAAAQAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerAndroid">
+    <Position X="13.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAgAAAAAIAAAAAAAAAAAAAAAAIAAAACAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\PlayerAndroid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickRestart">
+    <Position X="6.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\QuickRestart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickRestart2">
+    <Position X="5" Y="9" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="8.558" />
+        <Point X="5.75" Y="8.558" />
+        <Point X="5.75" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\QuickRestart2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Motion7">
+    <Position X="8" Y="13" Width="2" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="12.236" />
+        <Point X="9" Y="12.236" />
+        <Point X="9" Y="13" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAACAABAAAAAAAAAAABIQAQAAAAAAIggA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Level Animation\Motion7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyMotion">
+    <Position X="6" Y="13" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="12.227" />
+        <Point X="6.875" Y="12.227" />
+        <Point X="6.875" Y="13" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAAAAAAAAADAAAAAAAAQAABIQAQAACAAAAAEA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Level Animation\KeyMotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Motion1">
+    <Position X="3" Y="9" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAGAAAAAABAAAAAAAAAAQBIQAQAAAAAAAggA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Level Animation\Motion1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Motion2">
+    <Position X="0.75" Y="9" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAIAAAAAABAAgAAAAAAAABIQAQAAAAAAAgkA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Level Animation\Motion2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Motion3">
+    <Position X="16.25" Y="13" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="12.234" />
+        <Point X="17.125" Y="12.234" />
+        <Point X="17.125" Y="13" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAAAEAAAAABAAAAAAAAAAABIQAQAAAAAAAgEA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Level Animation\Motion3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Motion4">
+    <Position X="14.25" Y="13" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="12.243" />
+        <Point X="15.125" Y="12.243" />
+        <Point X="15.125" Y="13" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQABAAgAAAAAAAAAAAAQAAAAAAAgAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Level Animation\Motion4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Motion5">
+    <Position X="12.25" Y="13" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="12.235" />
+        <Point X="13.125" Y="12.235" />
+        <Point X="13.125" Y="13" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAgAAAABAAAAAAAAAAABIQAQAAAAAAAggA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Level Animation\Motion5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Motion6">
+    <Position X="10.25" Y="13" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="12.227" />
+        <Point X="11.125" Y="12.227" />
+        <Point X="11.125" Y="13" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAABCAAAAAAAAAABIQAQAAAAAQIgAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Level Animation\Motion6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GreetingTestRoom">
+    <Position X="1.25" Y="4.75" Width="1.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="4.375" />
+        <Point X="2.125" Y="4.375" />
+        <Point X="2.125" Y="4.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkA=</HashCode>
+      <FileName>Assets\GreetingTestRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Joystick">
+    <Position X="20" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="19.125" Y="3.941" />
+        <Point X="19.125" Y="4.375" />
+        <Point X="20.75" Y="4.375" />
+        <Point X="20.75" Y="4.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AACABACIACRICAAEACBAASICAAEAADAKAQQCCAEAIAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Base\Joystick.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.155" Collapsed="true" />
+  </Class>
+  <Class Name="DynamicJoystick">
+    <Position X="18.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAACAACAIAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixedJoystick">
+    <Position X="21.75" Y="13" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FloatingJoystick">
+    <Position X="23.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VariableJoystick">
+    <Position X="20" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAKAACAIAgAAAAAAAAAAAAAAAgAAACIAAAAAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.25" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="IInventoryItem">
+    <Position X="21.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainFolder\Scripts\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="AxisOptions">
+    <Position X="23.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Base\Joystick.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="JoystickType">
+    <Position X="23.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAEAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
