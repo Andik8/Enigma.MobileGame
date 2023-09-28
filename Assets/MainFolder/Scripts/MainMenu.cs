@@ -29,9 +29,9 @@ public class MainMenu : MonoBehaviour
     public static bool GameIsPaused = true;
     public void PlayGame ()
     {
-        int levelIndex = PlayerPrefs.GetInt(LevelKey, 0);
-        string levelName = StartUp.Instance.LevelSetting.LevelName[levelIndex];
-        SceneManager.LoadScene(levelName);
+        //int levelIndex = PlayerPrefs.GetInt(LevelKey, 0);
+        //string levelName = StartUp.Instance.LevelSetting.LevelName[levelIndex];
+        SceneManager.LoadScene("Level1");
       
          isClicked = !isClicked;
        // item4.SetActive(isClicked);
